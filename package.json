@@ -1,5 +1,5 @@
 {
-  "name": "ng-packagr",
+  "name": "@spscommerce/ng-packagr",
   "version": "4.7.1",
   "description": "Compile and package a TypeScript library to Angular Package Format",
   "keywords": [
@@ -24,11 +24,15 @@
   "bin": {
     "ng-packagr": "./cli/main.js"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://spscommerceinc.jfrog.io/spscommerceinc/api/npm/npm/"
+  },
   "main": "./public_api.js",
   "typings": "./public_api.d.ts",
   "dependencies": {
     "@ngtools/json-schema": "^1.1.0",
-    "autoprefixer": "^9.0.0",
+    "autoprefixer": "^9.6.0",
     "browserslist": "^4.0.0",
     "chalk": "^2.3.1",
     "chokidar": "^2.0.3",
