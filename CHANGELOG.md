@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.7.2](https://github.com/ng-packagr/ng-packagr/compare/v4.7.1...v4.7.2) (2020-01-09)
+
+
+### Bug Fixes
+
+* use new autoprefixer api ([9c95d50](https://github.com/ng-packagr/ng-packagr/commit/9c95d50))
+
+
+
 <a name="4.7.1"></a>
 ## [4.7.1](https://github.com/ng-packagr/ng-packagr/compare/v4.7.0...v4.7.1) (2019-02-15)
 

@@ -1,6 +1,6 @@
 {
   "name": "@spscommerce/ng-packagr",
-  "version": "4.7.1",
+  "version": "4.7.2",
   "description": "Compile and package a TypeScript library to Angular Package Format",
   "keywords": [
     "angular",
